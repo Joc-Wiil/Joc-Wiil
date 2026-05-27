@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Joc-Wiil
-- 👀 I’m interested in writing code for video games
-- 🌱 I’m currently learning IT fundations and I self teach Unity as I develop my own game.
-- 💞️ I’m looking to collaborate on a game development project
-- 📫 How to reach me jtwilliams.programmer@gmail.com, (360)-380-7079 (Text, I ignore unknown calls.)
+- 👋 Hi, I’m @Joc-Wiil or Jacob Williams.
+- 👀 I'm interested in software development with a focus on game development and backend systems.
+- 🌱 I recently graduated with a B.S. in Software Engineering and am currently developing a Java-based D&D stat calculator
+- 💞️ I'm open to collaborating on game development or general software projects
+- 📫 How to reach me jtwilliams.programmer@gmail.com
 
 <!---
 Joc-Wiil/Joc-Wiil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
